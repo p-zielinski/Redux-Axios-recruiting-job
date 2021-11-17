@@ -2,7 +2,7 @@
 simple form in redux
 
 <b>Developed on Node v16.13.0</b>
-<b>npm version: 8.1.0</b>
+<br /><b>npm version: 8.1.0</b>
 
 How to run it:
 1. Download everything
