@@ -28,5 +28,5 @@ dotenv.config();
 const PORT = process.env.PORT || 5000;
 
 const main = (async () => {
-  //no API
+  app.listen(PORT, () => console.log(`Server started on port ${PORT}!`));
 })();
